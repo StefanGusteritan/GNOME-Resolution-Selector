@@ -1,0 +1,6 @@
+# VS Code
+.vscode/
+
+# Generated text files
+monitorModes.txt
+selectedMode.txt
